@@ -65,7 +65,7 @@ ____
 Tutti i processi vengono creati da altri processi a parte l’init che è sempre il primo a nascere e ha PID=1. Avviene una richiesta al S.O. da parte di un processo già in esecuzione (proce-sso **parent**) di creare un nuovo processo (processo **child** ), di solito un processo ne genera un altro per avere un “aiuto” nello svolgimento di una qualche mansione.
 Tramite una fork() il parent genera il child che avrà un proprio PID e PCB, siccome il child a sua volta può creare un altro child di cui essere parent, si creano gerarchie di processi. Ogni parent, all’interno del
 PCB contiene informazioni per identificare i child e vice versa.
-
+daje
 
 
 
