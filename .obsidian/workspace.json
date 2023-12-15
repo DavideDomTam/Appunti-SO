@@ -24,11 +24,17 @@
             "id": "caedba679132da93",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Processo.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,11 +194,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "7c6ebb9570b34bfa",
+  "active": "caedba679132da93",
   "lastOpenFiles": [
+    "Processo.md",
     "README.md",
     "Sistemi operativi.md",
-    "Processo.md",
     "Thread.md",
     "Recording 20231214181233.webm",
     "Drawing 2023-12-14 18.07.24.excalidraw.md",
